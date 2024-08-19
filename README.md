@@ -9,13 +9,14 @@ Anki日本語翻訳のリンクまとめ
 * web : [FSRS Wiki 日本語版 (FSRS Github, Wiki)](https://shigeyukey.github.io/FSRS-jp/)  Github : [FSRS-jp](https://github.com/shigeyukey/FSRS-jp/issues)
 
 
+
 その他の翻訳Ankiマニュアルサイト (これらは私の翻訳ではなく以前からあるものです)
 
 * web : [Anki日本語マニュアルWiki](https://wikiwiki.jp/rage2050/)
 * web : [AnkiDroid マニュアル](https://ankidroid.org/docs/manual-ja.html)
-* web : [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)
+* web : [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)  
 
-
+  
 
 * 訳注テンプレート
 
