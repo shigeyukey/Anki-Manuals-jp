@@ -16,6 +16,7 @@ Anki日本語翻訳のリンクまとめ
 * web : [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)
 
 
+
 * 訳注テンプレート
 
 ----
