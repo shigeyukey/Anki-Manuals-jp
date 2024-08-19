@@ -1,7 +1,14 @@
-# Anki-Manuals-jp
 
-このサイトはボランティア開発者の[Shigeyuki](http://patreon.com/Shigeyuki)によるAnkiの情報のまとめサイトです｡ (Ankiのアドオン作ったり英語で回答したりしてます)
+### 誤訳を報告する
 
+簡単な問題はページ右上の✉️メールアイコンから私に連絡できます｡ (匿名､返信機能なし)  
+ * [誤訳を連絡 (Googlw Forms)](https://forms.gle/FeBrhcgasYfYcQkZ7)
+
+
+
+### Githubから問題を報告する
+
+Github (プログラマーが使用しているサイト)から連絡すると､問題を追跡したり､コードを直接編集したりできます｡ (｢New Issues｣を押すと新しい問題を追加できます)
 
 1. Ankiマニュアル (AnkiManual)
    1. 日本語訳 : [Ankiマニュアル](https://shigeyukey.github.io/anki-manual-jp/)
@@ -19,13 +26,3 @@
 1. FSRS Wiki 日本語版 (FSRS Github, Wiki)
     1. 日本語訳 : [FSRS Wiki 日本語版](https://shigeyukey.github.io/FSRS-jp/)
     1. Github : [FSRS-jp](https://github.com/shigeyukey/FSRS-jp/issues)
-
-----
-
-その他の翻訳Ankiマニュアルサイト (これらは私の翻訳ではなく以前からあるものです)
-
-* web : [Anki日本語マニュアルWiki](https://wikiwiki.jp/rage2050/)
-* web : [AnkiDroid マニュアル](https://ankidroid.org/docs/manual-ja.html)
-* web : [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)  
-
-

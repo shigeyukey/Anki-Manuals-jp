@@ -1,0 +1,13 @@
+[book]
+authors = ["Shigeyuki"]
+language = "jp"
+multilingual = false
+src = "src"
+title = "FSRS Wiki 日本語版"
+
+[output.html]
+git-repository-url = "https://forms.gle/jbnPepH378mVb2Sz5"
+git-repository-icon = "fa-envelope"
+
+[output.html.print]
+enable = false
