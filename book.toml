@@ -1,6 +1,6 @@
 [book]
 authors = ["Shigeyuki"]
-language = "jp"
+language = "ja"
 multilingual = false
 src = "src"
 title = "FSRS Wiki 日本語版"
