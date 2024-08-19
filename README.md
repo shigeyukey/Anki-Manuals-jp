@@ -8,7 +8,7 @@ Anki日本語翻訳のリンクまとめ
 * web : [AnkiMobileマニュアル (AnkiMobileManual)](https://shigeyukey.github.io/ankimobile-docs-jp/)  Github : [ankimobile-docs-j](https://github.com/shigeyukey/ankimobile-docs-jp/issues)
 * web : [FSRS Wiki 日本語版 (FSRS Github, Wiki)](https://shigeyukey.github.io/FSRS-jp/)  Github : [FSRS-jp](https://github.com/shigeyukey/FSRS-jp/issues)
 
-
+----
 
 その他の翻訳Ankiマニュアルサイト (これらは私の翻訳ではなく以前からあるものです)
 
