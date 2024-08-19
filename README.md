@@ -15,3 +15,14 @@ Anki日本語翻訳のリンクまとめ
 * web : [AnkiDroid マニュアル](https://ankidroid.org/docs/manual-ja.html)
 * web : [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)
 
+
+* 訳注テンプレート
+
+----
+
+訳注: この日本語版ページはボランティア開発者の[Shigeyuki](http://patreon.com/Shigeyuki)が実験的に開発と翻訳したものです｡  
+AIツールとか使って自動翻訳したのでまだ誤訳が多いです｡ (たとえば"Good"が"良い"になったり"Bury"が"埋める"になったりしてます)  
+ページ右上のメールアイコンから誤訳を私に報告できます｡  
+英語版 : [🟢](🟢)
+
+----
