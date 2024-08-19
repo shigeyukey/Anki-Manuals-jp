@@ -15,7 +15,7 @@ Github : Issues
 * [ankimobile-docs-j](https://github.com/shigeyukey/ankimobile-docs-jp/issues)
 * [FSRS-jp](https://github.com/shigeyukey/FSRS-jp/issues)
 
-その他の翻訳Ankiマニュアルサイト
+その他の翻訳Ankiマニュアルサイト(これらは私の翻訳ではなく以前からあるものです)
 
 * [Anki日本語マニュアルWiki](https://wikiwiki.jp/rage2050/)
 * [AnkiDroid マニュアル](https://ankidroid.org/docs/manual-ja.html)
