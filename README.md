@@ -16,7 +16,7 @@ Anki日本語翻訳のリンクまとめ
 * web : [AnkiDroid マニュアル](https://ankidroid.org/docs/manual-ja.html)
 * web : [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)  
 
-  
+----
 
 * 訳注テンプレート
 
