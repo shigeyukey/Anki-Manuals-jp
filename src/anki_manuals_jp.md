@@ -9,7 +9,7 @@
 ## Anki日本語版マニュアルまとめ
 
 
-これらは私の翻訳なので私に[誤訳を連絡](https://forms.gle/FeBrhcgasYfYcQkZ7)できます｡
+これらは私の翻訳なので私に[誤訳を連絡](github_link.md)できます｡
 
 1. [Ankiマニュアル](https://shigeyukey.github.io/anki-manual-jp/)
 2. [Ankiよくある質問](https://shigeyukey.github.io/Anki-faqs-jp/)
