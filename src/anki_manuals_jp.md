@@ -1,11 +1,20 @@
+
+目次 :
+- [Anki日本語版マニュアルまとめ](#anki日本語版マニュアルまとめ)
+- [その他のAnki関連サイト](#その他のanki関連サイト)
+- [Ankiについて質問する](#ankiについて質問する)
+- [日本語の共有デッキ](#日本語の共有デッキ)
+
+
 ## Anki日本語版マニュアルまとめ
+
 
 これらは私の翻訳なので私に[誤訳を連絡](https://forms.gle/FeBrhcgasYfYcQkZ7)できます｡
 
 1. [Ankiマニュアル](https://shigeyukey.github.io/anki-manual-jp/)
-1. [Ankiよくある質問](https://shigeyukey.github.io/Anki-faqs-jp/)
-1. [AnkiMobileマニュアル](https://shigeyukey.github.io/ankimobile-docs-jp/)
-1. [FSRS Wiki 日本語版](https://shigeyukey.github.io/FSRS-jp/)
+2. [Ankiよくある質問](https://shigeyukey.github.io/Anki-faqs-jp/)
+3. [AnkiMobileマニュアル](https://shigeyukey.github.io/ankimobile-docs-jp/)
+4. [FSRS Wiki 日本語版](https://shigeyukey.github.io/FSRS-jp/)
 
 
 これらは私の翻訳ではなく以前からあるWikiです｡
