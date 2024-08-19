@@ -3,7 +3,7 @@ authors = ["Shigeyuki"]
 language = "ja"
 multilingual = false
 src = "src"
-title = "FSRS Wiki 日本語版"
+title = "Anki情報まとめ by Shigeyuki"
 
 [output.html]
 git-repository-url = "https://forms.gle/jbnPepH378mVb2Sz5"
