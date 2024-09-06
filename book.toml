@@ -8,6 +8,8 @@ title = "Anki情報まとめ by Shigeyuki"
 [output.html]
 git-repository-url = "https://forms.gle/jbnPepH378mVb2Sz5"
 git-repository-icon = "fa-envelope"
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
+
 
 [output.html.print]
 enable = false
