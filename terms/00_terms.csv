@@ -1,0 +1,221 @@
+English,Japanese
+Review,復習
+Learn,習得中
+Learning,習得中
+Add,追加
+text,テキスト
+Cloze,穴埋め問題
+Ease,易しさ
+Easy,簡単
+Answer Again,回答 (もう一度)
+Answer Buttons,回答ボタン
+Answer Card,カードへの回答
+Answer Good,回答 (正解)
+Answer Hard,回答 (難しい)
+Basic,基本
+Back,裏面
+Due,期日
+Card Type,カードタイプ
+Cloze,穴埋め問題
+Cloze deletion,穴埋め問題
+Browser Options,ブラウザ オプション
+Browsing,検索
+stats,統計
+Status,状態
+Step:,間隔:
+Studied,今日学習した
+Study,学習
+Image Occlusion,画像穴埋め問題
+Interval,復習間隔
+Interval modifier,復習間隔の一括調整（倍）
+Lapses,復習での忘却回数
+Learn ahead limit,習得学習の前倒し許容時間
+Learning,習得中
+Learning steps,習得ステップ
+Leech action,苦戦（忘却多発）カードへの処置
+Mature,復習 [習熟期]
+
+
+English,Japanese
+
+
+Add,追加
+Added,カード作成日
+Add to Selected Notes,選択中のノートに追加
+Advanced,高度なオプション
+Again,もう一度
+Again count:,間違えた回数:
+All Buried Cards,今日は非表示にしたすべてのカード
+Analyze,分析
+Answer,解答
+Answer action,解答表示時間経過後の自動アクション
+Answer Again,回答 (もう一度)
+Answer Buttons,回答ボタン
+Answer Card,カードへの回答
+Answer Good,回答 (正解)
+Answer Hard,回答 (難しい)
+Appearance,表示
+Ascending difficulty,難度が低い順
+Ascending ease,易しさが低い順
+Ascending intervals,復習間隔が短い順
+Ascending position,位置（昇順）
+Ascending position,位置（新規カード番号）の昇順
+Audio,音声
+Audio +5s,音声を5秒進める
+Audio -5s,音声を5秒戻す
+Auto Advance,カードの自動送り
+Back,裏面
+Back Extra,裏面追記
+Backlog,延滞込み
+Basic,基本
+Basic (and reversed card),基本 (裏表反転カード付き)
+Basic (optional reversed card),基本 (裏表反転カード追加可能)
+Basic (type in the answer),基本 (文字入力解答)
+Browser Options,ブラウザ オプション
+Browsing,検索
+Build,作成
+Build Deck,デッキを構築
+Buried,今日は非表示
+Bury,今日は非表示
+Bury Card,カードを今日は非表示
+Burying,兄弟関係のカードの非表示
+Bury new siblings,兄弟関係の新規カードを同じ日に表示しない
+Bury Note,ノートを今日は非表示
+Bury related new cards until the next day,関連する新規カードを今日は非表示にする
+Bury related reviews until the next day,関連する復習カードを今日は非表示にする
+Bury review siblings,兄弟関係の復習カードを同じ日に表示しない
+Card List,テーブル（リスト）
+Card Modified,カード更新日時
+Card Retrievability,カードの正答可能性
+Card Stability,カードの安定度
+Cards in Plain Text,テキストファイル形式のカード
+cards from the deck,選択中のデッキから取得
+Card Type,カードタイプ
+Cloze,穴埋め問題
+Cloze deletion,穴埋め問題
+Collapse,折りたたむ
+Daily Limits,一日の上限
+Date,学習日時
+Days studied,学習した日の割合
+Deck Options,デッキオプション
+Deck Override...,デッキ選択を上書き...
+"Deck, then due date",デッキ並び順→デッキ内は期日超過日数多い順
+Deck then random notes,デッキの並び順（上から）→ランダム（ノート単位）
+Decreasing intervals,間隔が大きい順
+Default,デフォルト
+Descending difficulty,難度が高い順
+Descending ease,易しさが高い順
+Descending intervals,復習間隔が長い順
+Descending position,位置（新規カード番号）の降順
+Descending position,位置（降順）
+Desired retention,目標正答率
+Difficulty,難度
+Discard,破棄
+Display Order,表示順序
+Distractions,集中の妨げとなる場合の対策
+Due,期日
+Due cards only,課題 (期日・予定時刻が到来済み) のカードのみ
+"Due date, then deck",期日超過日数が多い順→同日数はデッキの並び順
+"Due date, then random",期日超過日数が多い順→同日数はランダム
+Due tomorrow,明日が期日
+duplicate,重複
+Early,期日前
+Ease,易しさ
+Easy,簡単
+Easy bonus,復習で「簡単」と回答した場合のボーナス〔「正解」比〕（倍）
+Easy interval,「簡単」と回答後の最初の復習間隔（日）
+Edit Current,現在のノートを編集
+Empty,空にする
+Empty Cards,白紙カード
+Empty Trash,ごみ箱を空にする
+Equations,数式
+Evaluate,評価
+Expand,展開
+Fields,フィールド
+Field separator,フィールドの区切り
+Filter,フィルター
+Finish,終了
+Flags,フラグ
+Flip,反転
+Forget,リセット
+Front,表面
+Future Due,今後の期日
+General,一般
+Get Shared,共有デッキをダウンロード
+Good,正解
+Hard,難しい
+"Hide All, Guess One",ﾏｽｸ1個(1ｸﾞﾙｰﾌﾟ)ごとに1ｶｰﾄﾞ。他ﾏｽｸも表示
+Hide bottom bar during review,学習画面でボトムバーを非表示
+"Hide One, Guess One",ﾏｽｸ1個(1ｸﾞﾙｰﾌﾟ)ごとに1ｶｰﾄﾞ。他ﾏｽｸ非表示
+Hide top bar during review,学習画面でトップバーを非表示
+Historical retention,履歴欠落期間の推定正答率
+Ignore case,大文字小文字を区別しない
+Ignore accents in search (slower),検索する際にアクセント記号を無視する（検索速度低下）
+Ignore answer times longer than,統計に利用する解答時間の最大値
+Image Occlusion,画像穴埋め問題
+Interval,復習間隔
+Interval modifier,復習間隔の一括調整（倍）
+Lapses,復習での忘却回数
+Learn,習得中
+Learn ahead limit,習得学習の前倒し許容時間
+Learning,習得中
+Learning steps,習得ステップ
+Leech action,苦戦（忘却多発）カードへの処置
+Mature,復習 [習熟期]
+Maximum answer seconds,最長回答秒数
+Maximum interval,復習間隔の上限（日）
+Maximum reviews/day,一日の復習枚数の上限
+Most lapses,復習での忘却回数が多い順
+New Cards,新規カード
+New cards/day,一日の新規カード導入枚数の上限
+New cards ignore review limit,復習枚数の上限に関係なく新規カードを導入する
+New card sort order,集めた新規カードを並べる順序
+New interval,復習再開後の復習間隔〔前回復習比〕（倍）
+Night mode,夜間モード
+Optimize,最適化
+Position,位置
+Preferences,設定
+Preserve,維持
+Preset,プリセット
+Preview,プレビュー
+Profiles,プロファイル
+Rebuild,再構築
+Reduce motion,モーションを減らす
+Relearn,再習得中
+Relearning,再習得中
+Relearning steps,再習得ステップ
+Retrievability,正答可能性
+Review ahead,先取りして復習する
+Review sort order,復習カードを並べる順序
+Scheduler,スケジューラー
+Show Answer,解答を表示
+Space,スペース
+Statistics,統計
+Start position:,開始位置:
+Stability,安定度
+Starting ease,復習開始時の「易しさ」〔復習間隔の前回比〕（倍）
+stats,統計
+Status,状態
+Step:,間隔:
+Studied,今日学習した
+Study,学習
+Style,スタイル
+Styling,スタイル
+Suspend,休止
+Suspend Card,カードを休止
+Suspended,休止中
+Suspend Note,ノートを休止
+Synchronisation,同期
+Template,テンプレート
+Templates,テンプレート
+Tags,タグ
+Unbury,非表示を解除
+Unbury/Unsuspend,非表示解除 / 休止解除
+Undo,元に戻す
+Add-ons,アドオン
+Browse,ブラウザ
+Create,作成
+Filtered Deck,フィルターデッキ
+Redo,やり直す
+
+
