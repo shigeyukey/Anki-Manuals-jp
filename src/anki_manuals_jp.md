@@ -21,7 +21,7 @@
 
 1. [Anki日本語マニュアルWiki](https://wikiwiki.jp/rage2050/)
 2. [AnkiDroid マニュアル](https://ankidroid.org/docs/manual-ja.html)
-3. [Ankiのアドオンを書く](https://t-cool.github.io/anki-addon-docs-ja/)
+3. [Ankiのアドオンを書く](https://shigeyukey.github.io/anki-addon-docs-ja/)
 
 
 ## その他のAnki関連サイト
