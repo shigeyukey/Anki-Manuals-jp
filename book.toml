@@ -1,7 +1,6 @@
 [book]
 authors = ["Shigeyuki"]
 language = "ja"
-multilingual = false
 src = "src"
 title = "Anki情報まとめ by Shigeyuki"
 
